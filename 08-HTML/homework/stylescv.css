@@ -1,0 +1,29 @@
+h1 {
+    color: silver;
+}
+
+h2 {
+    color: grey;
+}
+
+body {
+    background-image: url(https://fondosmil.com/fondo/52705.jpg) ;
+    
+}
+
+
+#pId {
+    color: black;
+    font-size: 20px;
+}
+
+#pId2 {
+    color: black;
+    font-size: 27px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: 7px solid black;
+}
